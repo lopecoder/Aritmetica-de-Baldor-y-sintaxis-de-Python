@@ -8,6 +8,7 @@ El objetivo es mostrar cómo los conceptos matemáticos pueden representarse en 
 - Relacionar cada concepto matemático con su equivalente lógico en programación.
 - Crear un recurso didáctico que sirva para estudiantes y autodidactas.
 - Promover la claridad y la organización en el uso de GitHub como herramienta de aprendizaje.
+  
 📂 Estructura del repositorio (EJEMPLO)
 Cada archivo .py corresponde a un ejercicio o conjunto de ejercicios de un capítulo específico:
 - Capitulo 1_Nociones sobre conjuntos/
